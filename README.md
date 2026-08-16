@@ -1,5 +1,7 @@
 # Python Exercises
 
+[← Voltar a Engenharia de Dados](https://github.com/joycequoos/Data_Enginer/blob/main/README.md)
+
 Coleção de exercícios práticos de Python, cobrindo desde os conceitos mais básicos (variáveis, tipos e operadores) até estruturas de dados, funções, condicionais, laços, tratamento de erros e leitura de arquivos. O objetivo é consolidar a base da linguagem através da prática, exercício por exercício, antes de avançar para projetos mais complexos de automação e ETL.
 
 ## Índice
